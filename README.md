@@ -5,8 +5,8 @@ title: Haskell Warm Up
 ## Download
 
 ```bash 
-$ git clone https://github.com/UCSC-CSE-110A/pa0.git
-$ cd pa0/
+$ git clone https://github.com/UCSC-CSE-110A/hw0-<username>.git
+$ cd hw0-<username>/
 ```
 
 ## Overview
