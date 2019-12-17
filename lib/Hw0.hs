@@ -1,4 +1,4 @@
-{- | CSE 131: FP Refresher/Intro to Haskell Assignment.
+{- | CSE 110A: Intro to Haskell Assignment.
      Do not change the skeleton code! The point of this
      assignment is to figure out how the functions can
      be written this way (using fold). You may only
