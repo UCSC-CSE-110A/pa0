@@ -1,5 +1,5 @@
 ---
-title: HW #0 Haskell Warm Up
+title: Haskell Warm Up
 ---
 
 ## Download
